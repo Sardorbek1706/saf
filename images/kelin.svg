@@ -6,7 +6,7 @@
   <path d="M320 270c15-72 74-121 145-121 87 0 130 68 130 140 0 40-12 76-34 105-47-14-90-16-135-8-49 8-92 29-128 63-10-36-10-77-8-117 2-23 10-44 30-62z" fill="#0D1D12"/>
   <path d="M318 385c30 36 77 58 122 58 42 0 82-16 111-46" stroke="#0D1D12" stroke-width="22" stroke-linecap="round" fill="none"/>
   <path d="M320 300c20-51 72-95 136-95" stroke="#0D1D12" stroke-width="18" stroke-linecap="round" fill="none"/>
-  <path d="M280 705c44-55 110-84 175-84 65 0 126 25 176 84" stroke="#74E58B" stroke-width="16" stroke-linecap="round" fill="none" opacity="0.8"/>
-  <circle cx="155" cy="180" r="70" fill="#74E58B" opacity="0.18"/>
-  <path d="M155 105l18 40 42 8-32 25 10 42-38-22-38 22 10-42-32-25 42-8z" fill="#74E58B" opacity="0.85"/>
+  <path d="M280 705c44-55 110-84 175-84 65 0 126 25 176 84" stroke="#D4AF37" stroke-width="16" stroke-linecap="round" fill="none" opacity="0.8"/>
+  <circle cx="155" cy="180" r="70" fill="#D4AF37" opacity="0.18"/>
+  <path d="M155 105l18 40 42 8-32 25 10 42-38-22-38 22 10-42-32-25 42-8z" fill="#D4AF37" opacity="0.85"/>
 </svg>
